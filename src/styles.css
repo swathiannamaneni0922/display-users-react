@@ -1,0 +1,85 @@
+.Title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: Large;
+    display:inline-block;
+    
+  }
+  .contactus {
+    float:right;
+  }
+  .App {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .user {
+    font-family: sans-serif;
+    text-align: center;
+    list-style: none;
+    flex-basis: 33.333333%;
+   
+  }
+  .box {
+    padding: 20px;
+    background:  rgb(231, 230, 230);
+    margin: 20px;
+  }
+  .box:hover {
+    background-color: lightblue;
+  }
+  img {
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .location {
+    padding-left:5px; 
+  }
+  .name {
+    padding-left:5px; 
+  }
+  .learnmore {
+    color:rgb(32, 112, 218);
+  }
+  
+  .Modal {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 50;
+  }
+  
+  .modal button {
+    position: absolute;
+    top: 60px;
+    right: 160px;
+    background: rgb(148, 145, 146);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  
+  .contactus {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+  }
+  
+  .col {
+    background:  rgb(187, 186, 186);
+  }
+  
+  
+  .input-form {
+    padding: 0 2rem;
+    float:right;
+  }
+  
+  
